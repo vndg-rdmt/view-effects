@@ -1,9 +1,15 @@
 # view-effects
 Package which applies custom behavior or effects to elements
 
-> `ViewEffect` is a term, which describes custom logic applied to views (HTMLElements), behavior, like events responding and etc.
+#### Install
+```bash
+npm i view-effects
+```
 
 ### How to apply effect
+
+> `ViewEffect` is a term, which describes custom logic applied to views (HTMLElements), behavior, events responding and etc.
+
 ```ts
 // Effect is created.
 // (targetElement: HTMLElement)
